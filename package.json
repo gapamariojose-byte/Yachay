@@ -1,6 +1,6 @@
 {
   "name": "backend",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.5",
   "description": "Backend de Yachay",
   "main": "server.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@azure-rest/ai-inference": "^1.0.0",
+    "@azure-rest/ai-inference": "^1.0.0-beta.5",
     "@azure/core-auth": "^1.10.1",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
